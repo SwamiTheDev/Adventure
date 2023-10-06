@@ -2,11 +2,11 @@
 
 Welcome to the exciting world of adventure, travel, and tourism! 🌄🗺️
 
-🎨 **Design**: Figma & Photoshop
+🎨 **Design** : Figma & Photoshop
 
-💻 **Code**: HTML, CSS, JavaScript, jQuery, Bootstrap
+💻 **Code** : HTML, CSS, JavaScript, jQuery, Bootstrap
 
-🚀 **Explore the Adventure**: [Adventure Project](https://adventure-swamithedev.vercel.app/) 🚀
+🚀 **Explore the Adventure** : [Adventure Project](https://adventure-swamithedev.vercel.app/) 🚀
 
 🌟 **About the Project** 🌟
 Embark on a journey like never before with the Realme Adventure Project. Our mission is to ignite your wanderlust and provide you with the ultimate travel and tourism experience. Whether you're an adrenaline junkie seeking thrilling escapades or a leisure traveler in search of tranquility, we've got it all covered. 🌄🏞️🏖️
