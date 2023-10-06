@@ -3,6 +3,7 @@
 Welcome to the exciting world of adventure, travel, and tourism! 🌄🗺️
 
 🎨 Design: Figma & Photoshop
+
 💻 Code: HTML, CSS, JavaScript, jQuery, Bootstrap
 
 🚀 Explore the Adventure: [Adventure Project](https://adventure-swamithedev.vercel.app/) 🚀
